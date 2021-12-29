@@ -13,7 +13,7 @@ To install the library you can just run the following command:
 .. code:: sh
 
     # Linux/macOS
-    python3 -m pip install handly.py
+    pip install handly==0.2.0a0
 
     # Windows
-    py -3 -m pip install handly.py
+    py -3 -m pip install handly==0.2.0a0
