@@ -2,3 +2,7 @@
 .idea/
 dist/handly-0.2.0a0-py3-none-any.whl
 dist/handly-0.2.0a0.tar.gz
+src/handly.egg-info/dependency_links.txt
+src/handly.egg-info/PKG-INFO
+src/handly.egg-info/SOURCES.txt
+src/handly.egg-info/top_level.txt
