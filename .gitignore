@@ -6,3 +6,5 @@ src/handly.egg-info/dependency_links.txt
 src/handly.egg-info/PKG-INFO
 src/handly.egg-info/SOURCES.txt
 src/handly.egg-info/top_level.txt
+*.whl
+*.gz
