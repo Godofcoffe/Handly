@@ -2,7 +2,7 @@ import requests
 from os.path import basename, isdir
 from sys import argv, exit
 
-VERSION = "0.1.0"
+VERSION = "0.1.1"
 
 
 def download(url, path):
