@@ -24,7 +24,7 @@ def download(url, path):
             resposta.raise_for_status()
 
 
-if __name__ == "__main":
+if __name__ == "__main__":
     if len(argv) <= 1:
         print("main.py <url> <path>")
         exit(0)
