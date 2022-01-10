@@ -31,8 +31,5 @@ if __name__ == "__main__":
     elif "http" not in argv[1]:
         print("Url not valid!")
         exit(0)
-    elif not isdir(argv[2]):
-        print("Directory invalid!")
-        exit(0)
     else:
         download(argv[1], argv[2])
